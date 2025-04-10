@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "DataFactoryNw1111"
+		},
+		"AzureBlobStorage_connectionString": {
+			"value": ""
 		}
 	}
 }
